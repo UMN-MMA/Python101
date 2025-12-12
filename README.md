@@ -1,6 +1,4 @@
-Use the onboarding notebook RAVEN_MDC.ipynb to learn Python through the LIGO low-latency RAVEN dataset.
-
-# Useful Background Information
+# **UMN LIGO/Multi-Messenger Astronomy Introduction Notebook**
 
 ## Astrophysics, Multi-messenger Astronomy, LIGO, Low-latency, Gamma-ray Bursts
 
